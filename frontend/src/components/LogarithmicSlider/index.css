@@ -1,0 +1,14 @@
+.logarithmic-button-item {
+	display: flex;
+	border: 1px solid #F2A541;
+	display: table-column;
+	margin: 5px;
+	padding: 10px;
+	width: 300px;
+}
+
+.logarithmic-result {
+	display: flex;
+	justify-content: space-around;
+	
+}

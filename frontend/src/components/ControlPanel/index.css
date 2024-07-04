@@ -1,0 +1,34 @@
+.control-panel {
+	position: absolute;
+	right: 0;
+	top: 100px;
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+	margin-right: 20%;
+	color: white;
+}
+
+.button-item {
+	align-items: center;
+	border: 1px solid #F2A541;
+	margin: 5px;
+	padding: 10px;
+}
+
+.button-label {
+	margin-right: 10px;
+	text-align: right;
+}
+
+.button-element {
+	flex: 2;
+	max-width: 200px;
+}
+
+.range-container {
+	margin: 20px;
+	width: 80%;
+}
+
+

@@ -1,0 +1,31 @@
+.sidebar {
+	width: 250px;
+	background: white;
+	padding: 10px;
+	margin: 10px;
+	border-radius: 3px;
+	z-index: 1;
+	position: absolute;
+	top: 95px;
+	left: 24px;
+}
+
+.details {
+	font-size: 12px;
+	line-height: 1.5;
+}
+
+.detail-row {
+	display: flex;
+	justify-content: space-between;
+}
+
+.detail-key {
+	font-weight: bold;
+	margin-right: 5px;
+}
+
+.detail-value {
+	flex-grow: 1;
+	text-align: right;
+}

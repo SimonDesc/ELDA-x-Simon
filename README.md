@@ -16,6 +16,11 @@
 
 ![Objectif](./docs/objectif.png)
 
+
+## Architecture 🛠️
+
+![Architecture](./docs/architecture.png)
+
 ---
 
 ## Réalisation du projet
